@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-19 15:42+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Martin Fors\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: sv_SE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_attr__;esc_attr_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../create/index.php:11
+#: ../create/index.php:28
+msgid "Update"
+msgstr "Uppdatera"
+
+#: ../create/index.php:11
+#: ../include/functions.php:21
+#: ../list/index.php:10
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: ../create/index.php:18
+#: ../create/index.php:20
+#: ../include/classes.php:248
+msgid "Name"
+msgstr "Namn"
+
+#: ../create/index.php:26
+msgid "Save"
+msgstr "Spara"
+
+#: ../create/index.php:28
+msgid "Add"
+msgstr "Lägg till"
+
+#: ../create/index.php:34
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../create/index.php:36
+#: ../include/classes.php:250
+msgid "Order"
+msgstr "Ordning"
+
+#: ../create/index.php:40
+msgid "Subgroup to"
+msgstr "Undergrupp till"
+
+#: ../include/classes.php:37
+msgid "Please, enter all required fields"
+msgstr "Var vänlig fyll i alla obligatoriska fält"
+
+#: ../include/classes.php:53
+msgid "There is already a type with that name. Try with another one."
+msgstr "Det finns redan en typ med den namnet. Försök med en annan."
+
+#: ../include/classes.php:73
+msgid "The information was deleted"
+msgstr "Informationen raderades"
+
+#: ../include/classes.php:78
+msgid "The information was created"
+msgstr "Informationen skapades"
+
+#: ../include/classes.php:83
+msgid "The information was updated"
+msgstr "Informationen uppdaterades"
+
+#: ../include/classes.php:139
+msgid "Choose group here"
+msgstr "Välj grupp här"
+
+#: ../include/classes.php:241
+msgid "All"
+msgstr "Alla"
+
+#: ../include/classes.php:242
+msgid "Trash"
+msgstr "Papperskorg"
+
+#: ../include/classes.php:249
+msgid "Amount"
+msgstr "Antal"
+
+#: ../include/classes.php:320
+msgid "Edit"
+msgstr "Redigera"
+
+#: ../include/classes.php:324
+msgid "Delete"
+msgstr "Radera"
+
+#: ../include/classes.php:331
+msgid "Recover"
+msgstr "Återställ"
+
+#: ../include/functions.php:18
+#: ../list/index.php:9
+msgid "Group"
+msgstr "Grupp"
+
